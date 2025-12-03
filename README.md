@@ -1,5 +1,7 @@
 # varlink hello world
 
+[https://downtozero.cloud/posts/2025/varlink-experiments/](https://downtozero.cloud/posts/2025/varlink-experiments/)
+
 ## running the server
 
 ```bash
